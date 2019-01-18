@@ -1,0 +1,1 @@
+export const FEELING_SELECTED = 'FEELING_SELECTED';
